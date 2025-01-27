@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Guilherme Maia</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, JavaScript, Java, C/C++, C#.**
+- 🌱 Atualmente estou aprendendo **Python, SQL, JavaScript, Java, C/C++, C#.**
 
 - 💬 Me pergunte sobre **análise de processos, interpretação de requisitos, gestão de operações financeiras, negociação e identificação de melhorias estratégicas para desempenho organizacional.**
 
